@@ -38,9 +38,7 @@ x = input("do you want yes or no :   ")
 b = "yes"
 
 if x == b :
-      print('''  
-      
-      
+      print('''        
       ''')
 else:
       print("Nta insane moche mo7tarame kadiye3 lia we9ti :  ")
